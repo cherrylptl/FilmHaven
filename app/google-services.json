@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873004120383",
+    "project_id": "film-haven",
+    "storage_bucket": "film-haven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873004120383:android:57c01b64f878580fd5fb8a",
+        "android_client_info": {
+          "package_name": "com.example.filmhaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEV1ayYo0Ihio484Frv5DvnE1trRi5GBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
